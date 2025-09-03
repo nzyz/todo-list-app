@@ -1,5 +1,4 @@
 # todo-list-app
 
-- Added index.html
-- Added style.css
-- added app.js
+First app made with HTML CSS and JS 
+project for learning
